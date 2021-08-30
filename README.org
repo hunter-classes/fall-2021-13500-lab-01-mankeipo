@@ -1,12 +1,12 @@
 * Fall 2021 - Lab 01
 
-* Last name: 
+* Last name: Po   
 
-* First name: 
+* First name: Man Kei 
 
-* GitHub username: 
+* GitHub username: mankeipo 
 
-* Notes:
+* Notes: 
 
 
 
@@ -28,3 +28,4 @@ other files to to your repository.
 
 Make sure to test each program to make sure it works correctly.
 
+  
